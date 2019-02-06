@@ -1,6 +1,5 @@
 import time
 from slackclient import SlackClient
-# from lyric_faster import lyrics_generator
 from lyrics_extractor import Song_Lyrics
 from get_music import music
 from task import parse_tasks

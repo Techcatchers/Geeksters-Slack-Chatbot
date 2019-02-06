@@ -26,7 +26,7 @@ It really works. Test it now!
     **NOTE: You need a health tips dataset for the same and I have provided a demo dataset for storing more health tips by scraping any websites or downloading available datasets.**
 7. Your users will get an entire set of premade help commands on the chatbot whenever they would like to know about any of the available commands.
 
-AND many more feature coming soon...
+AND many more features coming soon...
 
 ## Requirements
 
