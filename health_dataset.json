@@ -1,0 +1,13 @@
+{
+    "content": [{
+        "category": "Diet", 
+        "title": "Learn proper portion size. ",
+        "description": "To avoid eating too much of even the healthiest foods, keep track of how much you're eating. For most people, meat servings should be about the size of a deck of cards and other servings vary by the type of food."
+    },
+
+    {
+        "category": "General Fitness",
+        "title": "",
+        "description": "Strive for at least 150 minutes of exercise per week. Break it down to 40 Minutes 4 days a week, 30 minutes 5 days a week, or however you'd like!"
+    }]
+}

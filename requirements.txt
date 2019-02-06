@@ -1,0 +1,5 @@
+slackclient
+requests
+lyrics-extractor
+pafy
+beautifulsoup4
