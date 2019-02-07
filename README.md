@@ -14,13 +14,13 @@ It really works. Test it now!
 
 ## Features
 
-1. You can get livescores for football on the chatbot for current live matches.
+1. You can get live scores for football on the chatbot for current live matches.
 2. You can get lyrics for songs on your Slack chatbot.
 3. You can get audio and video version of your desired songs from the slack chatbot.
-4. You can set tasks, to-do lists and birthday & anniversary reminders. You will get reminded on the set date and time by the chatbot.
+4. You can set tasks, to-do lists, and birthday & anniversary reminders. You will get reminded on the set date and time by the chatbot.
 
     **NOTE: You need a database to store the user information for the same.**
-5. You can get latest breaking news on the chatbot.
+5. You can get the latest breaking news on the chatbot.
 6. You can get health tips right on your chatbot.
 
     **NOTE: You need a health tips dataset for the same and I have provided a demo dataset for storing more health tips by scraping any websites or downloading available datasets.**
