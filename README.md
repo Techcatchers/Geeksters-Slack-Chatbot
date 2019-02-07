@@ -1,6 +1,6 @@
 # Geeksters: Slack Chatbot in Python
 
-Meet Geeksters! This is a Slack Chatbot Prototype for Python. This Slackbot has some interesting features to be worked on which aims to increase the user's productivity at work.
+Meet Geeksters! A Slack Chatbot Prototype built with Python. This Slackbot has some interesting features to be worked on which aims to increase the user's productivity at work.
 
 If you are interested to know how the project got initiated then [here's a PDF](https://drive.google.com/file/d/1b3v5K1x4ILq1xHJIY-bEu4ZQHXeVC7PP/view?usp=sharing) for you.
 
