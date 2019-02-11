@@ -4,7 +4,7 @@ Meet Geeksters! A Slack Chatbot Prototype built with Python. This Slackbot has s
 
 If you are interested to know how the project got initiated then [here's a PDF](https://drive.google.com/file/d/1b3v5K1x4ILq1xHJIY-bEu4ZQHXeVC7PP/view?usp=sharing) for you.
 
-**NOTE: This project was submitted for TCS Inframind Contest 2018. Unfortunately, we didn't get selected for the finals.**
+**NOTE: This project was submitted for TCS Inframind Contest 2018. Unfortunately, we couldn't make it to the finals.**
 
 Here's a [demo video](https://youtu.be/McJr1AOhyj8) for you which explains the entire project and its working.
 
