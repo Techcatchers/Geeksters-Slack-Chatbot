@@ -36,7 +36,7 @@ AND many more features coming soon...
     **NOTE: You will surely need [this article](https://www.geeksforgeeks.org/python-how-to-shorten-long-urls-using-bitly-api/) later.**
 * You need to get a [Youtube Data API](https://console.developers.google.com/apis/credentials?project=_) key.
 * You need to get a [Live football score](https://www.football-data.org/client/register) API key.
-* You need to create a [Google Engine ID](https://cse.google.com/cse/create/new) by adding any or all of the following websites as per your choice:
+* You need to create a [Custom Search Engine ID](https://cse.google.com/cse/create/new) by adding any or all of the following websites as per your choice:
   * https://genius.com/
   * http://www.lyricsted.com/
   * http://www.lyricsbell.com/
