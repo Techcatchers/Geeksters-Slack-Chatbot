@@ -36,7 +36,16 @@ AND many more features coming soon...
     **NOTE: You will surely need [this article](https://www.geeksforgeeks.org/python-how-to-shorten-long-urls-using-bitly-api/) later.**
 * You need to get a [Youtube Data API](https://console.developers.google.com/apis/credentials?project=_) key.
 * You need to get a [Live football score](https://www.football-data.org/client/register) API key.
-* You need to get a [Google Engine ID](https://cse.google.com/cse/create/new) and [Google Custom Search JSON](https://developers.google.com/custom-search/v1/overview) API key.
+* You need to create a [Google Engine ID](https://cse.google.com/cse/create/new) by adding any or all of the following websites as per your choice:
+  * https://genius.com/
+  * http://www.lyricsted.com/
+  * http://www.lyricsbell.com/
+  * https://www.glamsham.com/
+  * http://www.lyricsoff.com/
+  * http://www.lyricsmint.com/
+
+  **NOTE: For more information, you may look at the [Lyrics Extractor](https://github.com/Techcatchers/PyLyrics-Extractor) Python Library.**
+* You need to get a [Google Custom Search JSON](https://developers.google.com/custom-search/v1/overview) API key.
 * You need to get a [News API](https://newsapi.org/) key.
 
 ## How to Use
