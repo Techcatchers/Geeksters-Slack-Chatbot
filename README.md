@@ -12,6 +12,10 @@ I have put this project together to call out all the developers who would like t
 
 It really works. Test it now!
 
+## How-To Guide
+
+Here's an in-depth [guide to building your own](https://hackernoon.com/a-guide-to-building-a-multi-featured-slackbot-with-python-73ea5394acc) Slackbot with Python.
+
 ## Features
 
 1. You can get live scores for football on the chatbot for current live matches.
